@@ -18,6 +18,7 @@ the author, at crestituyo@poverty-action.org.
 
 CHANGES: 
 2019-04-29: Do file created by Carlos Restituyo
+2019-08-26: Changed at the LAC RAD Summit
 
 */
 
